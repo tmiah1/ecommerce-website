@@ -245,6 +245,7 @@ FEATURES
 
 .books {
     display: flex;
+    align-items: center;
 }
 
 .book {
