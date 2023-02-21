@@ -166,6 +166,10 @@ header {
     align-items: center;
 }
 
+.no-cursor {
+    cursor: not-allowed;
+}
+
 /*
 
 HIGHLIGHT
@@ -305,6 +309,24 @@ EXPLORE
 #explore {
     background-color: rgba(115, 66, 214, 0.1);
 }
+
+/* 
+
+FOOTER
+
+*/
+
+footer {
+    background-color: #242424;
+}
+
+.footer__logo--img {
+    width: 160px;
+    filter: grayscale(1) invert(1);
+}
+
+
+
 
 
 
