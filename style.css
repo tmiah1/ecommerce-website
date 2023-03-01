@@ -350,6 +350,7 @@ FEATURES
 .book__title {
     font-size: 20px;
     margin-bottom: 8px;
+    color: #242424;
 }
 
 .book__title:hover {
