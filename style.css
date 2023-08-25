@@ -324,10 +324,11 @@ FEATURES
 .books {
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .book {
-    padding: 2px;
+    padding: 5px;
 }
 
 .book__img {
